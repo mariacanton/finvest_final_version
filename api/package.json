@@ -1,0 +1,13 @@
+{
+  "name": "finvest-api",
+  "version": "1.0.0",
+  "description": "StepZen API configuration for Finvest",
+  "main": "index.js",
+  "scripts": {
+    "start": "stepzen start"
+  },
+  "dependencies": {
+    "@stepzen/sdk": "^0.31.0",
+    "stepzen": "^0.31.0"
+  }
+}

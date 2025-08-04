@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Stocks",
+    "slug": "Stocks",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/finvestsplash.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+   "splash": {
+    "image": "./assets/images/finvestsplash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#A3C9A8"
+  },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/finvestsplash.png",
+        "backgroundColor": "#A3C9A8"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/finvestsplash.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-asset",
+      "expo-secure-store"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+    "VTI": {
+      "name": "Vanguard Total Stock Market ETF",
+      "price": 244.37,
+      "percent_change": 0.56,
+      "market_cap": "1.3T",
+      "volume": 3460000,
+      "expense_ratio": 0.03,
+      "yield": 1.5,
+      "category": "Total Market",
+      "holdings": ["Apple", "Microsoft", "NVIDIA"]
+    },
+    "VOO": {
+      "name": "Vanguard S&P 500 ETF",
+      "price": 431.15,
+      "percent_change": -0.34,
+      "market_cap": "900B",
+      "volume": 4100000,
+      "expense_ratio": 0.03,
+      "yield": 1.6,
+      "category": "Large Cap",
+      "holdings": ["Apple", "Microsoft", "Amazon"]
+    },
+    "QQQ": {
+      "name": "Invesco QQQ Trust",
+      "price": 368.12,
+      "percent_change": 1.12,
+      "market_cap": "200B",
+      "volume": 5200000,
+      "expense_ratio": 0.20,
+      "yield": 0.5,
+      "category": "Tech",
+      "holdings": ["Apple", "Microsoft", "NVIDIA"]
+    },
+    "SPY": {
+      "name": "SPDR S&P 500 ETF Trust",
+      "price": 450.80,
+      "percent_change": -0.10,
+      "market_cap": "450B",
+      "volume": 7800000,
+      "expense_ratio": 0.09,
+      "yield": 1.7,
+      "category": "Large Cap",
+      "holdings": ["Apple", "Microsoft", "Amazon"]
+    },
+    "ARKK": {
+      "name": "ARK Innovation ETF",
+      "price": 42.77,
+      "percent_change": 2.8,
+      "market_cap": "8B",
+      "volume": 3500000,
+      "expense_ratio": 0.75,
+      "yield": 0,
+      "category": "Growth",
+      "holdings": ["Tesla", "Roku", "Zoom"]
+    },
+    "IWM": {
+      "name": "iShares Russell 2000 ETF",
+      "price": 199.43,
+      "percent_change": -0.85,
+      "market_cap": "65B",
+      "volume": 2600000,
+      "expense_ratio": 0.19,
+      "yield": 1.4,
+      "category": "Small Cap",
+      "holdings": ["Super Micro", "Novavax", "AMC"]
+    },
+    "IVV": {
+      "name": "iShares Core S&P 500 ETF",
+      "price": 445.19,
+      "percent_change": 0.15,
+      "market_cap": "350B",
+      "volume": 4200000,
+      "expense_ratio": 0.03,
+      "yield": 1.5,
+      "category": "Large Cap",
+      "holdings": ["Apple", "Microsoft", "Google"]
+    },
+    "DIA": {
+      "name": "SPDR Dow Jones Industrial Average ETF",
+      "price": 344.87,
+      "percent_change": -0.45,
+      "market_cap": "30B",
+      "volume": 1900000,
+      "expense_ratio": 0.16,
+      "yield": 1.8,
+      "category": "Blue Chip",
+      "holdings": ["Goldman Sachs", "UnitedHealth", "Microsoft"]
+    },
+    "XLF": {
+      "name": "Financial Select Sector SPDR Fund",
+      "price": 38.91,
+      "percent_change": 0.22,
+      "market_cap": "50B",
+      "volume": 3100000,
+      "expense_ratio": 0.10,
+      "yield": 1.9,
+      "category": "Financial",
+      "holdings": ["JPMorgan", "Berkshire Hathaway", "Bank of America"]
+    },
+    "XLK": {
+      "name": "Technology Select Sector SPDR Fund",
+      "price": 178.77,
+      "percent_change": 0.77,
+      "market_cap": "60B",
+      "volume": 2300000,
+      "expense_ratio": 0.10,
+      "yield": 1.2,
+      "category": "Technology",
+      "holdings": ["Apple", "Microsoft", "NVIDIA"]
+    },
+    "XLE": {
+      "name": "Energy Select Sector SPDR Fund",
+      "price": 85.14,
+      "percent_change": -1.2,
+      "market_cap": "45B",
+      "volume": 2500000,
+      "expense_ratio": 0.10,
+      "yield": 3.5,
+      "category": "Energy",
+      "holdings": ["ExxonMobil", "Chevron", "ConocoPhillips"]
+    },
+    "XLV": {
+      "name": "Health Care Select Sector SPDR Fund",
+      "price": 138.64,
+      "percent_change": 0.18,
+      "market_cap": "40B",
+      "volume": 1800000,
+      "expense_ratio": 0.10,
+      "yield": 1.4,
+      "category": "Healthcare",
+      "holdings": ["UnitedHealth", "Pfizer", "Johnson & Johnson"]
+    },
+    "VNQ": {
+      "name": "Vanguard Real Estate ETF",
+      "price": 83.50,
+      "percent_change": -0.65,
+      "market_cap": "40B",
+      "volume": 1500000,
+      "expense_ratio": 0.12,
+      "yield": 4.0,
+      "category": "REIT",
+      "holdings": ["Prologis", "American Tower", "Equinix"]
+    },
+    "TLT": {
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "price": 93.25,
+      "percent_change": 0.3,
+      "market_cap": "35B",
+      "volume": 2900000,
+      "expense_ratio": 0.15,
+      "yield": 3.2,
+      "category": "Bond",
+      "holdings": ["US Treasury Bonds"]
+    },
+    "BND": {
+      "name": "Vanguard Total Bond Market ETF",
+      "price": 75.12,
+      "percent_change": -0.1,
+      "market_cap": "90B",
+      "volume": 2700000,
+      "expense_ratio": 0.035,
+      "yield": 2.9,
+      "category": "Bond",
+      "holdings": ["US Government Bonds", "Corporate Bonds", "Mortgage Bonds"]
+    }
+  }
+  

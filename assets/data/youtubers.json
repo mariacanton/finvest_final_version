@@ -1,0 +1,37 @@
+[
+  {
+    "id": "yt1",
+    "username": "@theplainbagel",
+    "link": "https://www.youtube.com/@theplainbagel",
+    "image": null,
+    "tags": ["ETFs", "Investment Strategies", "Stocks"]
+  },
+  {
+    "id": "yt2",
+    "username": "@BenFelixCSI",
+    "link": "https://www.youtube.com/@BenFelixCSI",
+    "image": null,
+    "tags": ["ETFs", "Investment Strategies", "Bonds"]
+  },
+  {
+    "id": "yt3",
+    "username": "@AswathDamodaranOnline",
+    "link": "https://www.youtube.com/@AswathDamodaranOnline",
+    "image": null,
+    "tags": ["Stocks", "Investment Strategies", "Options"]
+  },
+  {
+    "id": "yt4",
+    "username": "@WhiteBoardFinance",
+    "link": "https://www.youtube.com/@WhiteBoardFinance",
+    "image": null,
+    "tags": ["Stocks", "Investment Strategies"]
+  },
+  {
+    "id": "yt5",
+    "username": "@josephcarlsonshow",
+    "link": "https://www.youtube.com/@josephcarlsonshow",
+    "image": null,
+    "tags": ["Stocks", "ETFs", "Investment Strategies"]
+  }
+]

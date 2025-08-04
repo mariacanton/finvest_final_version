@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Install chart and Apollo dependencies",
+			"command": "npx expo install react-native-reanimated react-native-gesture-handler @shopify/react-native-skia react-native-graph @apollo/client graphql",
+			"group": "build",
+			"isBackground": false
+		}
+	]
+}

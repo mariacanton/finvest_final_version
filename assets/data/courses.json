@@ -1,0 +1,72 @@
+[
+  {
+    "id": "course1",
+    "title": "Financial Markets",
+    "provider": "Yale University",
+    "description": "Taught by Nobel Laureate Robert Shiller, this course provides an overview of how financial markets operate.",
+    "level": "Beginner",
+    "link": "https://online.yale.edu/courses/financial-markets",
+    "image": "financial-markets",
+    "tags": ["Stocks", "Bonds"]
+  },
+  {
+    "id": "course2",
+    "title": "Machine Learning for Trading",
+    "provider": "Udacity",
+    "description": "Use machine learning to build trading strategies using real market data.",
+    "level": "Intermediate",
+    "link": "https://www.udacity.com/course/machine-learning-for-trading--ud501",
+    "image": "machine-learning-trading",
+    "tags": ["Stocks", "Investment Strategies"]
+  },
+  {
+    "id": "course3",
+    "title": "Financial Engineering and Risk Management Part I",
+    "provider": "Coursera (Columbia University)",
+    "description": "Learn to model financial assets and manage risk using engineering techniques.",
+    "level": "Advanced",
+    "link": "https://www.coursera.org/learn/financial-engineering-1",
+    "image": "risk-management",
+    "tags": ["Options", "Risk"]
+  },
+  {
+    "id": "course4",
+    "title": "Investment and Portfolio Management with ETFs",
+    "provider": "Coursera (Rice University)",
+    "description": "UBuild a Winning Investment Portfolio. Improve your investment strategies with real-world skills, insights, and analytical tools.",
+    "level": "Beginner",
+    "link": "https://www.coursera.org/specializations/investment-portfolio-management",
+    "image": "etf-portfolio",
+    "tags": ["ETFs", "Investment Strategies"]
+  },
+  {
+    "id": "course5",
+    "title": "Stocks and Bonds",
+    "provider": "Coursera (University of Michigan)",
+    "description": "This course is part of Foundational Finance for Strategic Decision Making Specialization",
+    "level": "Intermediate",
+    "link": "https://www.coursera.org/learn/bonds-and-stocks",
+    "image": "stocks-bonds",
+    "tags": ["Bonds"]
+  },
+  {
+    "id": "course6",
+    "title": "Trading Strategies in Emerging Markets",
+    "provider": "Coursera (University of Geneva)",
+    "description": "Explore high-level strategies tailored to volatility and risk in emerging economies.",
+    "level": "Advanced",
+    "link": "https://www.coursera.org/learn/emerging-markets",
+    "image": "emerging-markets",
+    "tags": ["Investment Strategies"]
+  },
+  {
+    "id": "course7",
+    "title": "Options Trading Basics (Skillshare)",
+    "provider": "Skillshare",
+    "description": "Learn how options trading works with real examples and practical insights.",
+    "level": "Beginner",
+    "link": "https://www.skillshare.com/en/classes/Options-Trading-Basics/1012151981",
+    "image": "options-trading",
+    "tags": ["Options"]
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "quotes": [
+    {
+      "value": {
+        "name": "Apple Inc.",
+        "symbol": "AAPL",
+        "exchange": "NASDAQ",
+        "percent_change": "1.5",
+        "close": "175.21",
+        "open": "172.88",
+        "high": "176.30",
+        "low": "171.96"
+      }
+    },
+    {
+      "value": {
+        "name": "International Business Machines",
+        "symbol": "IBM",
+        "exchange": "NYSE",
+        "percent_change": "-0.8",
+        "close": "145.89",
+        "open": "147.20",
+        "high": "147.45",
+        "low": "145.42"
+      }
+    },
+    {
+      "value": {
+        "name": "Meta Platforms Inc.",
+        "symbol": "META",
+        "exchange": "NASDAQ",
+        "percent_change": "2.3",
+        "close": "485.58",
+        "open": "474.21",
+        "high": "486.12",
+        "low": "473.85"
+      }
+    },
+    {
+      "value": {
+        "name": "NVIDIA Corporation",
+        "symbol": "NVDA",
+        "exchange": "NASDAQ",
+        "percent_change": "3.2",
+        "close": "875.38",
+        "open": "848.92",
+        "high": "877.45",
+        "low": "847.50"
+      }
+    },
+    {
+      "value": {
+        "name": "Tesla, Inc.",
+        "symbol": "TSLA",
+        "exchange": "NASDAQ",
+        "percent_change": "-1.2",
+        "close": "175.34",
+        "open": "177.45",
+        "high": "178.12",
+        "low": "174.85"
+      }
+    },
+    {
+      "value": {
+        "name": "Advanced Micro Devices, Inc.",
+        "symbol": "AMD",
+        "exchange": "NASDAQ",
+        "percent_change": "2.8",
+        "close": "178.59",
+        "open": "173.85",
+        "high": "179.25",
+        "low": "173.42"
+      }
+    }
+  ]
+} 

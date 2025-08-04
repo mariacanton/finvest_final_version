@@ -1,0 +1,82 @@
+[
+  {
+    "id": "stocks-basics",
+    "title": "Understanding Stocks",
+    "description": "What stocks are, how they work, and why people invest in them.",
+    "image": "topics-image.png",
+    "content": "Stocks represent ownership in a company and entitle the shareholder to a portion of its profits.",
+    "tags": ["Stocks", "Investment Strategies"]
+  },
+  {
+    "id": "etfs-explained",
+    "title": "What Are ETFs?",
+    "description": "A simple explanation of Exchange-Traded Funds and how to use them.",
+    "image": "topics-image.png",
+    "content": "ETFs are investment funds traded on stock exchanges, much like stocks. They offer diversification and are a popular passive investment vehicle.",
+    "tags": ["ETFs", "Investment Strategies"]
+  },
+  {
+    "id": "risk-management",
+    "title": "Risk Management",
+    "description": "Strategies to protect your investments.",
+    "image": "topics-image.png",
+    "content": "Risk management in investing involves identifying, analyzing, and minimizing potential losses. Techniques include diversification, setting stop-loss orders, and adjusting asset allocation.",
+    "tags": ["Investment Strategies"]
+  },
+  {
+    "id": "bonds-intro",
+    "title": "Bonds 101",
+    "description": "How bonds work and why they’re a key component of a balanced portfolio.",
+    "image": "topics-image.png",
+    "content": "Bonds are fixed-income instruments that pay regular interest and are generally considered safer than stocks.",
+    "tags": ["Bonds"]
+  },
+  {
+    "id": "options-basics",
+    "title": "Options Explained",
+    "description": "A beginner-friendly overview of options trading.",
+    "image": "topics-image.png",
+    "content": "Options give investors the right (but not the obligation) to buy or sell a security at a set price before a certain date.",
+    "tags": ["Options", "Stocks"]
+  },
+  {
+    "id": "dividends",
+    "title": "Dividends and Income Investing",
+    "description": "Using dividends as a long-term income strategy.",
+    "image": "topics-image.png",
+    "content": "Dividend investing focuses on stocks that pay regular income, providing stability and passive earnings.",
+    "tags": ["Stocks", "Investment Strategies"]
+  },
+  {
+    "id": "index-funds",
+    "title": "Index Funds vs. ETFs",
+    "description": "Compare passive investing tools and their benefits.",
+    "image": "topics-image.png",
+    "content": "Both ETFs and index funds are low-cost vehicles tracking market indexes, but differ in trading flexibility and management.",
+    "tags": ["ETFs", "Investment Strategies"]
+  },
+  {
+    "id": "technical-analysis",
+    "title": "Introduction to Technical Analysis",
+    "description": "Learn the basics of charts, trends, and market indicators.",
+    "image": "topics-image.png",
+    "content": "Technical analysis is a trading discipline that uses price charts and indicators to forecast future market movements.",
+    "tags": ["Stocks", "Options"]
+  },
+  {
+    "id": "bond-yields",
+    "title": "Bond Yields and Duration",
+    "description": "How to interpret bond yields and interest rate risk.",
+    "image": "topics-image.png",
+    "content": "Understanding duration, yield to maturity, and the effects of interest rates is essential to fixed-income investing.",
+    "tags": ["Bonds"]
+  },
+  {
+    "id": "covered-calls",
+    "title": "Covered Calls Strategy",
+    "description": "Generate income from options while holding stocks.",
+    "image": "topics-image.png",
+    "content": "A covered call involves owning a stock and selling a call option to earn premium income, limiting upside potential.",
+    "tags": ["Options", "Stocks"]
+  }
+]
